@@ -3,6 +3,7 @@
     { "name": "Lionel Messi", "team": "PSG", "goals": 30, "assists": 9 },
     { "name": "Cristiano Ronaldo", "team": "Al Nassr", "goals": 28, "assists": 6 },
     { "name": "Neymar", "team": "PSG", "goals": 15, "assists": 10 },
-    { "name": "Kylian Mbappé", "team": "PSG", "goals": 25, "assists": 5 }
+    { "name": "Kylian Mbappé", "team": "PSG", "goals": 25, "assists": 5 },
+    { "name": "Julito Aragonés", "team": "M 2003 F.s.", "goals": 3, "assists": 7 }
   ]
 }
